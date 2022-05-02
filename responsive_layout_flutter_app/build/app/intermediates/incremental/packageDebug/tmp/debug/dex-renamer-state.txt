@@ -1,0 +1,4 @@
+#Sun May 01 10:46:34 BRT 2022
+base.0=E\:\\WorkSpace\\Estudos\\Flutter\\responsive\\src\\layout_responsive_flutter\\responsive_layout_flutter_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
